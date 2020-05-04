@@ -10,7 +10,7 @@
   </head>
   <body ng-controller="RedisCtrl">
     <div style="width: 50%; margin-left: 20px">
-      <h2>Guestbook</h2>
+      <h2 fancy>Fancy Guestbook</h2>
       <h4><?php echo $env; ?></h4>
     <form>
     <fieldset>
